@@ -1,0 +1,32 @@
+.intro {
+  border: 2px solid gray;
+  padding: 10px;
+  background-color: rgb(190, 220, 240);
+  text-align: center;
+  font-weight: bold;
+  font-size: x-large;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 75%;
+  box-sizing: border-box;
+}
+.intro-history {
+  border: 2px solid gray;
+  padding: 15px;
+  background-color: rgb(190, 220, 240);
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 75%;
+  box-sizing: border-box;
+}
+
+.centered-image {
+  margin: auto;
+  width: 25%;
+  height: auto;
+  display: block;
+}
