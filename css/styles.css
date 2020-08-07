@@ -13,7 +13,7 @@
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
-  width: 75%;
+  width: 90%;
   box-sizing: border-box;
 }
 .intro-history {
@@ -24,7 +24,7 @@
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
-  width: 75%;
+  width: 90%;
   box-sizing: border-box;
 }
 
@@ -53,4 +53,32 @@ p.subhead{
 
 #sidebar{
   background-color: lightgray;
+}
+
+.hobbies{
+  border: 2px solid gray;
+  padding: 15px;
+  background-color: rgb(190, 220, 240);
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 90%;
+  box-sizing: border-box;
+}
+.outside-image {
+  margin: auto;
+  padding: 5px;
+  width: 10%;
+  height: auto;
+  float: left;
+  display: block;
+}
+.dog-image {
+  margin: auto;
+  padding: 5px;
+  width: 10%;
+  height: auto;
+  float: right;
+  display: block;
 }
