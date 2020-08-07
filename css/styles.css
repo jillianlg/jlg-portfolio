@@ -30,3 +30,25 @@
   height: auto;
   display: block;
 }
+
+p.subhead{
+  font-weight: bold;
+}
+
+#language{
+  font-style: italic;
+  color: rgb(82, 82, 82);
+  font-size: small;
+}
+
+#sidebar-header{
+  font-weight: bold;
+  text-decoration: underline;
+}
+/* #row{
+  margin: 5px;
+  border: 12px solid gray;
+  /* margin-top: 20px;
+  padding: 15px;
+  margin-bottom: 20px; */
+}
