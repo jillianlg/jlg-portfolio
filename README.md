@@ -10,7 +10,7 @@ _This HTML demonstrates the fundamental understanding of the code organization, 
 
 ## Setup/Installation Requirements
 
-* _Select index.html to launch in browser or view via [ghpages](insert link)_
+* _Select index.html to launch in browser or view via [ghpages](https://github.com/jillianlg/jlg-portfolio/pull/new/gh-pages-2)_
 
 
 ## Known Bugs
