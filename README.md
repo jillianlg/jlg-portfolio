@@ -10,7 +10,7 @@ _This HTML demonstrates the fundamental understanding of the code organization, 
 
 ## Setup/Installation Requirements
 
-* _Select index.html to launch in browser or view via [ghpages](https://github.com/jillianlg/jlg-portfolio/pull/new/gh-pages-2)_
+* _Select index.html to launch in browser or view via [ghpages](https://jillianlg.github.io/jlg-portfolio/)_
 
 
 ## Known Bugs
@@ -19,7 +19,7 @@ _I discoved that you have to be on the HTML tab in VS Code when setting up the g
 
 ## Support and contact details
 
-_{Questions or comments can be directed to [Jillian Gibson](jillian.l.gibson@gmail.com)._
+_Questions or comments can be directed to [Jillian Gibson](jillian.l.gibson@gmail.com)._
 
 ## Technologies Used
 
