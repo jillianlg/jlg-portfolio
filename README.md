@@ -15,7 +15,7 @@ _This HTML demonstrates the fundamental understanding of the code organization, 
 
 ## Known Bugs
 
-_I discoved that you have to be on the HTML tab in VS Code when setting up the gh-pages branch. I was on the README.md tab when I added the branch and accidently created a gh-pages for my README doc. I did not have time to explore how to delete my active gh-pages. Instead I created a second branch called gh-pages-2 however in Git Hub the eviroment is still deploying to my README doc. Not sure how to fix that._
+_8.9.20   Fixed bug impacting gh-pages_
 
 ## Support and contact details
 
